@@ -2,12 +2,11 @@
 
 A new Flutter project. for Update Tech .
 
-![ScreenShot](/screenshots/ss1.png) ![ScreenShot](/screenshots/ss2.png)
-
-![ScreenShot](/screenshots/ss3.png) ![ScreenShot](/screenshots/ss4.png)
-
+![ScreenShot](/screenshots/ss2.png)
+![ScreenShot](/screenshots/ss3.png) 
+![ScreenShot](/screenshots/ss4.png)
 ![ScreenShot](/screenshots/ss5.png)
-
+![ScreenShot](/screenshots/ss1.png) 
 
 ## Getting Started
 
